@@ -1,19 +1,22 @@
 body
-
+/* toute la page dans la même typo*/
 {
   font-family: cursive;
 
    background-image:linear-gradient(white,#4BFB29);
-
+/*effet dégradé sur le fond de page */
   text-align:center;
 }
 h1
+/* sous-titres encadrés pour esthétique & marquage texte*/
 {
  border-width:3px;
  border-style:solid;;
  border-color:black;
 }
 h2
+/* !warning information importante */
+
 {
 color:red;
 
