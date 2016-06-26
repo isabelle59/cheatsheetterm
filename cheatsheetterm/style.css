@@ -1,0 +1,21 @@
+body
+
+{
+  font-family: cursive;
+
+   background-image:linear-gradient(white,#4BFB29);
+
+  text-align:center;
+}
+h1
+{
+ border-width:3px;
+ border-style:solid;;
+ border-color:black;
+}
+h2
+{
+color:red;
+
+}
+body
